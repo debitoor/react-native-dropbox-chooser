@@ -6,7 +6,7 @@
     "start": "react-native start"
   },
   "dependencies": {
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.20",
     "react-native": "^0.14.2",
     "react-native-dropbox-chooser": "^1.0.0"
   }
